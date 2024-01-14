@@ -49,7 +49,7 @@ Pretty easy one, you just have to follow this tutorial : [docker](https://epitec
 
 
 ## Usage
-**Manual usage** : [frontweb](https://epitech-area.gitbook.io/area/FRONT-WEB/frontweb) | [frontmobile](Front-Mobile) | [backend](https://epitech-area.gitbook.io/area/BACK-END/backend)
+**Manual usage** : [frontweb](https://epitech-area.gitbook.io/area/FRONT-WEB/frontweb) | [frontmobile](https://epitech-area.gitbook.io/area/FRONT-MOBILE/frontmobile) | [backend](https://epitech-area.gitbook.io/area/BACK-END/backend)
 
 
 ## Commit Standard
