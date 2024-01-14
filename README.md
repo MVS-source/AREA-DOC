@@ -1,67 +1,35 @@
-**Project Overview: B5 - Application Development (B-DEV-500)**
+# :ringed_planet: area
 
-**Action REAction - Automation Platform for Digital Life** 
+#### :secret: <ins>.env</ins> 
 
+- Make sure to have a .env with these datas in the server folder : 
 
-> AREA Project Overview
+```
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+REDIRECT_GOOGLE_URL=
+CLIENT_URL=
+TOKEN_SECRET=
+ATLAS_URI=
+```
 
-Language: react(js), flutter, nodejs
+- Make sure to have a .env with these datas in the client_web folder : 
 
-**Summary:**
-To construct a sophisticated automation platform, like IFTTT or Zapier, facilitating interactions between various digital services. 
+```
+REACT_APP_SERVER_URL =
+```
 
-**Key Components:**
-1. **Application Server:** Core of business logic, orchestrating the interaction of various digital services.
-2. **Web Client:** A browser-based interface for user interaction with the application server.
-3. **Mobile Client:** Similar to the web client, but designed for mobile platforms.
+#### :rocket: <ins>launching</ins> 
 
-**Functionality:**
-- User Registration and Authentication
-- Configuration of Actions and REActions (event-based triggers)
-- Synchronization between web and mobile clients
+- In the client_web folder 
 
-**Technical Aspects:**
-- Docker Compose for project construction
-- Detailed API documentation
-- Incremental development: from a proof of concept to a minimum viable product, and at the end in a fully-featured final product
+```shell
+npm install
+npm start
+```
+- In the server folder
 
-
-## Contents
-
-- [Installation](#installation)
-- [Prerequisites](#prerequisites)
-- [Documentation](#documentation)
-- [Usage](#usage)
-- [Commit-standard](#commit-standard)
-- [Credits](#credits)
-
-
-## Prerequisites
-  - docker
-
-
-## Documentation
-Tutorial and documentation to implement new functions and services are here : [documentation](https://epitech-area.gitbook.io/area/)
-
-
-## Installation
-Pretty easy one, you just have to follow this tutorial : [docker](https://epitech-area.gitbook.io/area/)
-
-
-## Usage
-**Manual usage** : [frontweb](https://epitech-area.gitbook.io/area/FRONT-WEB/frontweb) | [frontmobile](https://epitech-area.gitbook.io/area/FRONT-MOBILE/frontmobile) | [backend](https://epitech-area.gitbook.io/area/BACK-END/backend)
-
-
-## Commit Standard
-By adhering to these standards, we aim to keep our codebase organized and our development process streamlined. 
-We believe that a well-maintained commit history is a reflection of the team's dedication and professionalism.
-
-Commit standard : [Website](https://www.conventionalcommits.org/en/v1.0.0/)
-
-
-## Credits
-* **Louis DE-CAUMONT**
-* **Antoine DUFOUR**
-* **Matthis BROCHETON**
-* **Guillaume LE COZ**
-* **Victor M. SMITH**
+```shell
+npm install
+npm start
+```
