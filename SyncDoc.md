@@ -1,5 +1,4 @@
-
-### Key Points:
+### To update the online doc:
 
 - **Git Configuration**: Replace `'Your GitHub Username'` and `'your-email@example.com'`.
 
