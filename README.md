@@ -45,11 +45,11 @@ Tutorial and documentation to implement new functions and services are here : [d
 
 
 ## Installation
-Pretty easy one, you just have to follow this tutorial : [docker](Deployment)
+Pretty easy one, you just have to follow this tutorial : [docker](https://epitech-area.gitbook.io/area/)
 
 
 ## Usage
-**Manual usage** : [frontweb](Front-Web) | [frontmobile](Front-Mobile) | [backend](Back-end)
+**Manual usage** : [frontweb](https://epitech-area.gitbook.io/area/FRONT-WEB/frontweb) | [frontmobile](Front-Mobile) | [backend](https://epitech-area.gitbook.io/area/BACK-END/backend)
 
 
 ## Commit Standard
